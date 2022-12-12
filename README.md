@@ -1,2 +1,3 @@
-# fajrianwraf
-My profile
+# I'm Fajrianwar Fachrul
+
+Frontend Developer
